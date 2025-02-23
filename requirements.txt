@@ -1,0 +1,7 @@
+Flask
+subfinder
+nmap
+sqlmap
+dalfox
+requests
+beautifulsoup4
